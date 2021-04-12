@@ -1,7 +1,7 @@
-#Imersão Full Stack Full Cycle - Desafio 2
+# Imersão Full Stack Full Cycle - Desafio 2
 
+## Informações do desafio
 
-##Informações do desafio
 Nesse desafio você trabalhará com backend e frontend juntos para consolidar os conhecimentos adquiridos nas aulas de Nest.js e React.js.
 
 
@@ -25,6 +25,6 @@ $ sudo docker-compose up -d
 
 ```
 
-###Como acessar
+### Como acessar
 
 acesse na seguinte URL: http://localhost:3001
